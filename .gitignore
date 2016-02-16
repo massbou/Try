@@ -1,32 +1,22 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
 
-# Precompiled Headers
-*.gch
-*.pch
+# Created by https://www.gitignore.io/api/windows
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Folder config file
+Desktop.ini
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Debug files
-*.dSYM/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
